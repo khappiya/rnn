@@ -38,3 +38,5 @@ https://arxiv.org/pdf/1803.01271.pdf
 
 Memory, attention, sequences
 https://towardsdatascience.com/memory-attention-sequences-37456d271992
+
+http://petar-v.com/GAT/
